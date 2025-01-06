@@ -3,7 +3,7 @@
 I am beginning frontend developer 😀
 
 My stack: 
-* TypeScript, React, Next.js, Tailwind CSS, Redis, Cypress, Postman, Figma.
+* TypeScript, React, Next.js, Tailwind CSS, Redis, Node, Postman, Figma.
 
 I am currently learning: 
 * Redux, Express, PostgreSQL, Cypress, Jest, GraphQL.
