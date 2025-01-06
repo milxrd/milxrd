@@ -2,18 +2,18 @@
 
 I am beginning frontend developer 😀
 
-My stack: 
+My stack:
 * TypeScript, React, Next.js, Tailwind CSS, Redis, Node, Postman, Figma.
 
-I am currently learning: 
+I am currently learning:
 * Redux, Express, PostgreSQL, Cypress, Jest, GraphQL.
 
 I am B.Sc. of Computer Science and IT technician. 
-Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as: 
-* computer network, 
+Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as:
+* computer network,
 * server administration (Windows Server, SUSE Linux Enterprise Server),
 * algorythms, pointers and dynamic memory allocation in C++ and Java,
-* SQL and NoSQL databases (PL/SQL, MongoDB)
+* SQL and NoSQL databases (PL/SQL, MongoDB),
 * OOP PHP,
 * Python.
 
