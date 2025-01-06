@@ -11,8 +11,9 @@ I am currently learning:
 I am B.Sc. of Computer Science and IT technician. 
 Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as: 
 * computer network, 
-* server administration (Windows Server, SUSE Linux Enterprise Server) 
-* algorythms, pointers and dynamic memory allocation in C++ and Java, 
+* server administration (Windows Server, SUSE Linux Enterprise Server),
+* algorythms, pointers and dynamic memory allocation in C++ and Java,
+* SQL and NoSQL databases (PL/SQL, MongoDB)
 * OOP PHP,
 * Python.
 
