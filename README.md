@@ -13,7 +13,7 @@ Throughout the years of my education I was familiarized with many other fields o
 * computer network,
 * server administration (Windows Server, SUSE Linux Enterprise Server),
 * algorythms, pointers and dynamic memory allocation in C++ and Java,
-* SQL and NoSQL databases (PL/SQL, MongoDB),
+* SQL including SQL and NoSQL databases (PL/SQL, MongoDB),
 * OOP PHP,
 * Python.
 
