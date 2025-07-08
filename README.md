@@ -6,14 +6,14 @@ My stack:
 * TypeScript, React, Next.js, Tailwind CSS, Redis, Node, Postman, Figma.
 
 I am currently learning:
-* Redux, Express, PostgreSQL, Cypress, Jest, GraphQL.
+* Three.js, PostgreSQL, Redux, Express, Cypress, Jest and React Testing Library.
 
 I am B.Sc. of Computer Science and IT technician. 
 Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as:
 * computer network,
 * server administration (Windows Server, SUSE Linux Enterprise Server),
 * algorythms, pointers and dynamic memory allocation in C++ and Java,
-* SQL, PL/SQL and SQL and NoSQL databases (Oracle Database, MongoDB),
+* SQL, PL/SQL and SQL/NoSQL databases (Oracle Database, MongoDB),
 * OOP PHP,
 * Python.
 
