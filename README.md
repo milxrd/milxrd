@@ -6,7 +6,7 @@ My stack:
 * TypeScript, React, Next.js, Tailwind CSS, Redis, Cypress.js, Postman, Firebase, Figma.
 
 I am currently learning:
-* Jest and React Testing Library, Three.js, PostgreSQL.
+* Jest, React Testing Library, Three.js and PostgreSQL.
 
 I am B.Sc. of Computer Science and IT technician. 
 Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as:
