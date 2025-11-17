@@ -1,12 +1,12 @@
 ## Hi 👋
 
-I am beginning frontend developer 😀
+I am beginning frontend developer and software tester 😀
 
 My stack:
-* TypeScript, React, Next.js, Tailwind CSS, Redis, Cypress.js, Postman, Figma.
+* TypeScript, React, Next.js, Tailwind CSS, Redis, Cypress.js, Postman, Firebase, Figma.
 
 I am currently learning:
-* React-Redux, Three.js, PostgreSQL, Express.js, Jest and React Testing Library.
+* Jest and React Testing Library, Three.js, PostgreSQL.
 
 I am B.Sc. of Computer Science and IT technician. 
 Throughout the years of my education I was familiarized with many other fields of a computer science and programming languages such as:
